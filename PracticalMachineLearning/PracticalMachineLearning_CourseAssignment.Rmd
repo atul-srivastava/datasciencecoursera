@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning Course Assignment"
-author: "Rachel Goodgold"
+author: "atulsrivastava"
 date: "November 1, 2017"
 output: html_document
 ---
